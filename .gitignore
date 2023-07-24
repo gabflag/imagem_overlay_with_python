@@ -1,0 +1,7 @@
+venv
+.pytest_cache
+.mypy_cache
+icon.png
+image_after_genereted.jpg
+background_story.png
+image_normal.png
